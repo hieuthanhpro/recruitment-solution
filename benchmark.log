@@ -1,0 +1,16 @@
+
+===== BENCHMARK RESULT =====
+Dataset file: ad_data.csv
+Rows processed: 26843544
+Execution time: 5.002 seconds
+Throughput: 5,366,799 rows/sec
+Memory usage: 1400.96 MB
+============================
+
+===== BENCHMARK RESULT =====
+Dataset file: ad_data.csv
+Rows processed: 26843544
+Execution time: 12.617 seconds
+Throughput: 2,127,588 rows/sec
+Memory usage: 1396.94 MB
+============================
