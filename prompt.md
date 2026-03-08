@@ -370,14 +370,3 @@ The development workflow was:
 AI helped accelerate exploration, but the final implementation and decisions were made manually.
 
 ---
-
-# Summary
-
-This project demonstrates:
-
-- scalable data processing using Polars
-- efficient aggregation algorithms
-- optimized top-k selection
-- benchmarking and performance analysis
-
-AI assistants were used as a **productivity tool**, while the engineering decisions and implementation were handled manually.
